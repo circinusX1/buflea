@@ -1,0 +1,55 @@
+#
+# minimal config for buflea proxy
+# visit coinscode.com for extra info about
+# configuration.
+#
+
+[Buflea-Proxy-4.0.0]
+{
+    slog    = EIWTHDX
+    openacl	= 1         # all ports open
+}
+
+[port]
+{
+    port=8083
+    socks=HTTP
+    openacl=0           # requires authentication to authurl or A+IP:0 on control port
+}
+
+[port]
+{
+    port=8084
+    socks=SOCKS4
+}
+
+[port]
+{
+    port=8085
+    socks=SOCKS5
+}
+
+
+# chain 2 proxies  client(PROTOCOL)---->this_proxy---->[ssl]----->second-proxy(PROTOCOL)->[www]
+# on second proxy define the PROTOCOL SOCKET as clientisssl=1
+[port]
+{
+    port=8086
+    socks=PASSTRU
+    hostisssl=1
+    redirect=127.0.0.1:8888
+}
+
+
+[ssl]
+{
+    ssl_lib = libssl.so
+    crypto_lib = libcrypto.so
+
+    srv_certificate_file=certs/SRV.crt
+    srv_certificate_key_file=certs/SRV.key
+    #srv_certificate_chain_file
+    cli_certificate_key_file=certs/CLI.key
+    cli_certificate_file=certs/CLI.crt
+
+}
