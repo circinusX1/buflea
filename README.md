@@ -1,5 +1,10 @@
 ##### BUFLEA IS A C++ SOCKS PROXY DESIGNED FOR HIGH TRUPUT
 
+Buflea was running for 3 years behind screen.webhop domain to bypass net-flix region ban, 
+without a single reboot. I design it for high volume truput and high connection pool.
+Everyting (threads, pool, sockets bufffers kernel and user) is configurable from configuration file.
+Is a modern C++ developed SOCK proxy easy to maintain and extend.
+
 
 ## Block diagram
 
