@@ -1,3 +1,6 @@
+# C++ SOCKS-4 PROXY, C++ SOCKS-5 PROXY, HTTP PROXY
+* https://www.youtube.com/watch?v=5g5luEPuWgc
+
 ##### BUFLEA IS A C++ SOCKS PROXY DESIGNED FOR HIGH TRUPUT
 
 Buflea was running for 3 years behind screen.webhop domain to bypass net-flix region ban, 
