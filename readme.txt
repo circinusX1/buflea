@@ -1,4 +1,4 @@
-##### BUFLEA IS A C++ SOCKS PROXY
+##### SOCKS4 PROXY, SOCKS5 PROXY, REVERSE and HTTP PROXY
 
 
 ## Block diagram
