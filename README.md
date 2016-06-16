@@ -9,6 +9,11 @@ Everyting (threads, pool, sockets bufffers kernel and user) is configurable from
 Is a modern C++ developed SOCK proxy easy to maintain and extend.
 
 
+* Dependencies: 
+  * https://github.com/comarius/mcosocks
+  * https://github.com/comarius/mcoutils
+
+
 ## Block diagram
 
 ![alt text](https://github.com/comarius/buflea/blob/master/tuls/buflea-block.png "buflea")
