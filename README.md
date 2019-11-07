@@ -13,7 +13,7 @@ Is a modern C++ developed SOCK proxy easy to maintain and extend.
 * Dependencies: 
   * https://github.com/comarius/mcosocks
   * https://github.com/comarius/mcoutils
-  * you would need some tweaks in the code as susual here and there.... 
+  * you might need some tweaks in the code/config as usual... for github code
 
 
 ## Block diagram
