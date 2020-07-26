@@ -4,6 +4,9 @@
 
 ##### BUFLEA IS A C++ SOCKS PROXY DESIGNED FOR HIGH TRUPUT
 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L9RVWU5NUZ4YG)   [donations are taken care by meeiot domain]
+
 Buflea was running for 3 years behind screen.webhop domain to bypass net-flix region ban, 
 without a single reboot. I design it for high volume truput and high connection pool.
 Everyting (threads, pool, sockets bufffers kernel and user) is configurable from configuration file.
