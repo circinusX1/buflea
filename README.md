@@ -14,25 +14,25 @@ Is a modern C++ developed SOCK proxy easy to maintain and extend.
 
 
 * Dependencies: 
-  * https://github.com/comarius/mcosocks
-  * https://github.com/comarius/mcoutils
+  * https://github.com/circinusX1/mcosocks
+  * https://github.com/circinusX1/mcoutils
   * you might need some tweaks in the code/config as usual... for github code
 
 
 ## Block diagram
 
-![alt text](https://github.com/comarius/buflea/blob/master/tuls/buflea-block.png "buflea")
+![alt text](https://github.com/circinusX1/buflea/blob/master/tuls/buflea-block.png "buflea")
 
 ## Sequence diagram
 
-![alt text](https://github.com/comarius/buflea/blob/master/tuls/bufleaflow.png "buflea")
+![alt text](https://github.com/circinusX1/buflea/blob/master/tuls/bufleaflow.png "buflea")
 
 ## Working Modes Diagram 
 
-![alt text](https://github.com/comarius/buflea/blob/master/tuls/bufleamodes.png "buflea")
+![alt text](https://github.com/circinusX1/buflea/blob/master/tuls/bufleamodes.png "buflea")
 
 ## Class diagram
-![alt text](https://github.com/comarius/buflea/blob/master/tuls/bufleaclass.png "buflea")
+![alt text](https://github.com/circinusX1/buflea/blob/master/tuls/bufleaclass.png "buflea")
 
 
 
