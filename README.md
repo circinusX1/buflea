@@ -36,11 +36,11 @@ Is a modern C++ developed SOCK proxy easy to maintain and extend.
 
 
 
-###  You can check my reverse ssh online service and online key value database at 
-
-[reverse ssh as a service](http://www.mylinuz.com)
-
-[key value database as a service](https://www.meeiot.org)
+* Software related music:
+* 
+    * [![Found this funny video](https://ghitara.com/images/local_gith.png)](https://www.youtube.com/@AIureaSonus)
+ 
+  
 
 
 
